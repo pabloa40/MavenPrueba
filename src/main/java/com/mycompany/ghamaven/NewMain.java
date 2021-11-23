@@ -19,6 +19,7 @@ public class NewMain {
         
         int a =3;
          a += 4;
+         a +=1;
          
          System.out.println(a);
     }
