@@ -76,7 +76,7 @@ public class PersonaTest {
     public void testGetId() {
         System.out.println("getId");
         Persona instance = new Persona("a","b",2);
-        String expResult = "a";
+        String expResult = "b";
         String result = instance.getId();
         assertEquals(expResult, result);
         // TODO review the generated test code and remove the default call to fail.
