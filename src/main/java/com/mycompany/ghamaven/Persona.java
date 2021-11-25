@@ -37,7 +37,7 @@ public class Persona {
         
        if(alive)
        {
-            this.age++;
+            this.age++; 
        }
     }
     
