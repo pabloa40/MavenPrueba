@@ -17,7 +17,7 @@ public class TrabajadorTest{
         int expResult = 4;
         int result = instance.getSueldo();
 
-        Trabajdor instance2 = new Trabajador("a","b",10,"c");
+        Trabajador instance2 = new Trabajador("a","b",10,"c");
         int expResult2 = 3;
         int result2 = instance2.getSueldo();
 
