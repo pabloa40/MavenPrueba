@@ -95,5 +95,47 @@ public class PersonaTest {
         // TODO review the generated test code and remove the default call to fail.
         //fail("The test case is a prototype.");
     }
+
+    /**
+     * Test of setId method, of class Persona.
+     */
+    @org.junit.Test
+    public void testSetId() {
+    }
+
+    /**
+     * Test of getName method, of class Persona.
+     */
+    @org.junit.Test
+    public void testGetName() {
+    }
+
+    /**
+     * Test of setName method, of class Persona.
+     */
+    @org.junit.Test
+    public void testSetName() {
+    }
+
+    /**
+     * Test of getAge method, of class Persona.
+     */
+    @org.junit.Test
+    public void testGetAge() {
+    }
+
+    /**
+     * Test of isAlive method, of class Persona.
+     */
+    @org.junit.Test
+    public void testIsAlive() {
+    }
+
+    /**
+     * Test of setAlive method, of class Persona.
+     */
+    @org.junit.Test
+    public void testSetAlive() {
+    }
     
 }
