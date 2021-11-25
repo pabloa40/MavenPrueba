@@ -1,10 +1,6 @@
 name: Maven Build
 
 on: [push]
-#  push:
-#    branches-ignore:
-#      - 'master'
-#      - 'release*'
 
 jobs:
 
