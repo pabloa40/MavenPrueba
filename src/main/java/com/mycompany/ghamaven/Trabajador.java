@@ -12,7 +12,7 @@ public class Trabajador extends Persona
 
     public int getSueldo()
     {
-        if(this.trabajo="profesor")
+        if(this.trabajo=="profesor")
         {
             return 4;
         }
