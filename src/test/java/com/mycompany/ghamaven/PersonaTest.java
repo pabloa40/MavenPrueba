@@ -57,7 +57,7 @@ public class PersonaTest {
     /**
      * Test of hBirthday method, of class Persona.
      */
-    @org.junit.jupiter.api.Test
+    @org.junit.Test
     public void testHBirthday() {
         System.out.println("hBirthday");
         
@@ -85,7 +85,7 @@ public class PersonaTest {
     /**
      * Test of getId method, of class Persona.
      */
-    @org.junit.jupiter.api.Test
+    @org.junit.Test
     public void testGetId() {
         System.out.println("getId");
         Persona instance = new Persona("a","b",2);
