@@ -34,6 +34,7 @@ public class Persona {
 
     public void hBirthday()
     {
+        
        // if(alive)
        // {
             this.age++;
